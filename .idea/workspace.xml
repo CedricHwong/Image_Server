@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Image_Service" targetName="mysql_select" />
+      <config projectName="Image_Service" targetName="mysql_insert" />
+      <config projectName="Image_Service" targetName="Image_Service" />
+      <config projectName="Image_Service" targetName="mysql_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65dfd950-0860-4c6a-b577-dd497c93b157" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YMSY1vnELcbGw8B4fYRvlPsYS2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SourceHpp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SourceHpp" />
+      <recent name="$PROJECT_DIR$/SourceCpp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Image_Service">
+    <configuration name="Image_Service" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Image_Service" TARGET_NAME="Image_Service" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Image_Service" RUN_TARGET_NAME="Image_Service">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql_insert" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Image_Service" TARGET_NAME="mysql_insert" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Image_Service" RUN_TARGET_NAME="mysql_insert">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql_select" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Image_Service" TARGET_NAME="mysql_select" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Image_Service" RUN_TARGET_NAME="mysql_select">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Image_Service" TARGET_NAME="mysql_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Image_Service" RUN_TARGET_NAME="mysql_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Image_Service" />
+      <item itemvalue="CMake Application.mysql_insert" />
+      <item itemvalue="CMake Application.mysql_select" />
+      <item itemvalue="CMake Application.mysql_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65dfd950-0860-4c6a-b577-dd497c93b157" name="Default Changelist" comment="" />
+      <created>1582751013964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582751013964</updated>
+      <workItem from="1582751015457" duration="14651000" />
+      <workItem from="1582943814141" duration="868000" />
+      <workItem from="1583351334499" duration="24910000" />
+      <workItem from="1583558731649" duration="11787000" />
+      <workItem from="1583815229054" duration="4218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583554116508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583554116508" />
+    <state x="184" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1582838491907" />
+    <state x="458" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583447792165">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="458" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.819@0.23.1440.819" timestamp="1583447792165" />
+    <state x="477" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582753277026">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="477" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1582753277026" />
+    <state width="699" height="207" key="GridCell.Tab.0.bottom" timestamp="1583994920451">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583556410631" />
+    <state width="699" height="207" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1583994920451" />
+    <state width="699" height="207" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583970317896" />
+    <state width="699" height="207" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1583971821713" />
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1583448760562" />
+    <state width="699" height="207" key="GridCell.Tab.0.center" timestamp="1583994920450">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583556410630" />
+    <state width="699" height="207" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1583994920450" />
+    <state width="699" height="207" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583970317895" />
+    <state width="699" height="207" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1583971821712" />
+    <state width="1398" height="261" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1583448760561" />
+    <state width="699" height="207" key="GridCell.Tab.0.left" timestamp="1583994920450">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583556410630" />
+    <state width="699" height="207" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1583994920450" />
+    <state width="699" height="207" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583970317894" />
+    <state width="699" height="207" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1583971821711" />
+    <state width="1398" height="261" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1583448760561" />
+    <state width="699" height="207" key="GridCell.Tab.0.right" timestamp="1583994920450">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583556410631" />
+    <state width="699" height="207" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1583994920450" />
+    <state width="699" height="207" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583970317895" />
+    <state width="699" height="207" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1583971821712" />
+    <state width="1398" height="261" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1583448760562" />
+    <state width="1398" height="261" key="GridCell.Tab.1.bottom" timestamp="1583556410632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583556410632" />
+    <state width="1398" height="261" key="GridCell.Tab.1.bottom/0.23.1440.819@0.23.1440.819" timestamp="1583448760563" />
+    <state width="1398" height="261" key="GridCell.Tab.1.center" timestamp="1583556410632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583556410632" />
+    <state width="1398" height="261" key="GridCell.Tab.1.center/0.23.1440.819@0.23.1440.819" timestamp="1583448760563" />
+    <state width="1398" height="261" key="GridCell.Tab.1.left" timestamp="1583556410631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583556410631" />
+    <state width="1398" height="261" key="GridCell.Tab.1.left/0.23.1440.819@0.23.1440.819" timestamp="1583448760563" />
+    <state width="1398" height="261" key="GridCell.Tab.1.right" timestamp="1583556410632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="261" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583556410632" />
+    <state width="1398" height="261" key="GridCell.Tab.1.right/0.23.1440.819@0.23.1440.819" timestamp="1583448760563" />
+    <state width="640" height="191" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1583554379112">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="640" height="191" key="ImportCMakeProjectWizard.bottomPanel/0.0.1440.900@0.0.1440.900" timestamp="1583554379112" />
+    <state width="640" height="445" key="ImportCMakeProjectWizard.topPanel" timestamp="1583554379110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="640" height="445" key="ImportCMakeProjectWizard.topPanel/0.0.1440.900@0.0.1440.900" timestamp="1583554379110" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1583531690900">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583531690900" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583815233672">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1583815233672" />
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1583351335073" />
+    <state x="301" y="23" width="837" height="819" key="find.popup" timestamp="1582753249442">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="301" y="23" width="837" height="819" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1582753249442" />
+    <state x="442" y="68" key="refactoring.ChangeSignatureDialog" timestamp="1583521334647">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="442" y="68" key="refactoring.ChangeSignatureDialog/0.23.1440.812@0.23.1440.812" timestamp="1583521334647" />
+    <state x="442" y="68" key="refactoring.ChangeSignatureDialog/0.23.1440.819@0.23.1440.819" timestamp="1582842671272" />
+    <state x="385" y="196" key="run.anything.popup" timestamp="1583448287079">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="385" y="196" key="run.anything.popup/0.23.1440.819@0.23.1440.819" timestamp="1583448287079" />
+    <state x="450" y="348" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583543857798">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="450" y="348" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.812@0.23.1440.812" timestamp="1583543857798" />
+  </component>
+</project>

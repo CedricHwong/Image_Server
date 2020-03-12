@@ -1,0 +1,6 @@
+/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/CMakeFiles/mysql_test.dir
+/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/CMakeFiles/mysql_insert.dir
+/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/CMakeFiles/mysql_select.dir
+/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/CMakeFiles/Image_Service.dir

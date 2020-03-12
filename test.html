@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <script>
+        function showAllImg() {
+            let div = document.getElementById("showAllImg"),
+                ajax = new XMLHttpRequest();
+            ajax.onreadystatechange = function() {
+                if (ajax.readyState != 4) return;
+                if (ajax.status != 200) {
+                    alert("network error: " + ajax.status);
+                    return;
+                }
+                let data = JSON.parse(ajax.responseText);
+                console.log(data);
+                for (let o of data) {
+                    console.log(o);
+                    let img = new Image();
+                    img.onload = function () {
+                        div.append(img);
+                    }
+                    img.onerror = function () {
+                        console.error("network err: connot get img: " + img.src);
+                    }
+                    img.src = o.path;
+                }
+            };
+            ajax.open("GET", "/image");
+            ajax.send();
+        }
+    </script>
+</head>
+<body>
+<form method="POST" enctype="multipart/form-data"
+    action ="http://0.0.0.0:9094/image">
+    <table>
+        <tr>
+            <td>文件上传:</td>
+            <td><input type="file" name="upload"/></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="上传"/></td>
+        </tr>
+    </table>
+</form>
+<button onclick="showAllImg()">Get all img</button>
+<div id="showAllImg"></div>
+</body>
+</html>
+

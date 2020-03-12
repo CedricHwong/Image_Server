@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Image_Service"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysql_test">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/mysql_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysql_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysql_test/fast">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/mysql_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysql_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysql_insert">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/mysql_insert" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysql_insert"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysql_insert/fast">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/mysql_insert" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysql_insert/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysql_select">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/mysql_select" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysql_select"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysql_select/fast">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/mysql_select" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysql_select/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Image_Service">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Image_Service" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 Image_Service"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Image_Service/fast">
+				<Option output="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Image_Service" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/mysql/include"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./SourceHpp"/>
+					<Add directory="/Users/cedrichwong/Desktop/Image_Service/./wwwroot"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 Image_Service/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cedrichwong/Desktop/Image_Service/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/cedrichwong/Desktop/Image_Service/SourceCpp/db_test.cpp">
+			<Option target="mysql_test"/>
+		</Unit>
+		<Unit filename="/Users/cedrichwong/Desktop/Image_Service/SourceCpp/jsoncpp.cpp">
+			<Option target="mysql_test"/>
+			<Option target="Image_Service"/>
+		</Unit>
+		<Unit filename="/Users/cedrichwong/Desktop/Image_Service/SourceCpp/main.cpp">
+			<Option target="Image_Service"/>
+		</Unit>
+		<Unit filename="/Users/cedrichwong/Desktop/Image_Service/SourceCpp/mysql_insert.cpp">
+			<Option target="mysql_insert"/>
+		</Unit>
+		<Unit filename="/Users/cedrichwong/Desktop/Image_Service/SourceCpp/mysql_select.cpp">
+			<Option target="mysql_select"/>
+		</Unit>
+		<Unit filename="/Users/cedrichwong/Desktop/Image_Service/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
